@@ -3,7 +3,7 @@
 
 ---
 name: sjy-keng-kyim-qyim-khawq
-version: "0.1.20241228"
+version: "0.1.20241229"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -11,7 +11,8 @@ use_preset_vocabulary: true
 # 國風
 國風	guo feng
 
-# 周南
+
+# 周南###########################################################
 周南	zhou nan
 
 # 關雎
@@ -94,7 +95,17 @@ use_preset_vocabulary: true
 宜其家人
 
 #兔罝*
-#芣苢*
+
+#芣苢
+芣苢
+采采芣苢
+薄言采之	bo yan cai zhi
+薄言有之	bo yan you zhi
+薄言掇之	bo yan duo zhi
+薄言捋之	bo yan luo zhi#《古漢》
+薄言捋之	bo yan lv zhi#《重編》
+薄言袺之	bo yan jie zhi
+薄言襭之	bo yan xie zhi
 
 #漢廣
 南有喬木
@@ -116,7 +127,8 @@ use_preset_vocabulary: true
 #汝墳*
 #麟之趾*
 
-#召南
+
+#召南###########################################################
 召南	shao nan
 
 #鵲巢
@@ -145,3 +157,28 @@ use_preset_vocabulary: true
 勿翦勿拜
 召伯所說	shao bo suo shui
 召伯所說	zhao bo suo shuo#博取
+
+#行露*
+#羔羊*
+#殷其靁*
+#摽有梅*
+#小星*
+#江有汜*
+#野有死麕*
+#何彼襛矣*
+
+#騶虞
+騶虞
+彼茁者葭
+壹發五豝
+于嗟乎騶虞	xu jie hu zou yu
+于嗟乎騶虞	yu jie hu zou yu#博取
+彼茁者蓬
+壹發五豵
+
+
+# 邶風###########################################################
+邶風
+
+# 邶風·柏舟
+柏舟	bai zhou
