@@ -5,6 +5,7 @@
 name: sjy-keng-kyim-qyim-khawq
 version: "0.1.20241228"
 sort: by_weight
+use_preset_vocabulary: true
 ...
 
 # 國風
