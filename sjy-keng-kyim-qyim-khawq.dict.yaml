@@ -51,14 +51,14 @@ use_preset_vocabulary: true
 服之無斁	fu zhi wu yi
 言告師氏
 言告言歸
-薄汙我私	bo wu wo si#發語詞作bó，參《古漢》
+薄汙我私	bo wu wo si #發語詞作bó，參《古漢》
 薄汚我私	bo wu wo si
 薄污我私	bo wu wo si
 薄澣我衣	bo huan wo yi
-薄澣我衣	bo wan wo yi#《重編》又讀wàn
-害澣害否	he huan he fou#害同曷，否本字
-害澣害否	hai huan hai fou#博取
-害澣害否	hai wan hai fou#博取
+薄澣我衣	bo wan wo yi #《重編》又讀wàn
+害澣害否	he huan he fou #害同曷，否本字
+害澣害否	hai huan hai fou #博取
+害澣害否	hai wan hai fou #博取
 歸寧父母
 
 #卷耳
@@ -97,17 +97,17 @@ use_preset_vocabulary: true
 #兔罝*
 
 #芣苢
-芣苢	fu yi#《古漢》
-芣苢	fou yi#《重編》
-芣苡	fu yi#異體，收之以利用戶
+芣苢	fu yi #《古漢》
+芣苢	fou yi #《重編》
+芣苡	fu yi #異體，收之以利用戶
 芣苡	fou yi
 采采芣苢	cai cai fu yi
 采采芣苢	cai cai fou yi
 薄言采之	bo yan cai zhi
 薄言有之	bo yan you zhi
 薄言掇之	bo yan duo zhi
-薄言捋之	bo yan luo zhi#《古漢》
-薄言捋之	bo yan lv zhi#《重編》
+薄言捋之	bo yan luo zhi #《古漢》
+薄言捋之	bo yan lv zhi #《重編》
 薄言袺之	bo yan jie zhi
 薄言襭之	bo yan xie zhi
 
@@ -154,13 +154,13 @@ use_preset_vocabulary: true
 蔽芾甘棠	bi fei gan tang
 勿翦勿伐
 召伯所茇	shao bo suo ba
-召伯所茇	zhao bo suo ba#博取
+召伯所茇	zhao bo suo ba #博取
 勿翦勿敗
 召伯所憩	shao bo suo qi
-召伯所憩	zhao bo suo qi#博取
+召伯所憩	zhao bo suo qi #博取
 勿翦勿拜
 召伯所說	shao bo suo shui
-召伯所說	zhao bo suo shuo#博取
+召伯所說	zhao bo suo shuo #博取
 
 #行露*
 #羔羊*
@@ -176,8 +176,8 @@ use_preset_vocabulary: true
 彼茁者葭
 壹發五豝
 于嗟乎騶虞	xu jie hu zou yu
-于嗟乎騶虞	xu jie hu zou ya#朱熹叶牙
-于嗟乎騶虞	yu jie hu zou yu#博取
+于嗟乎騶虞	xu jie hu zou ya #朱熹叶牙
+于嗟乎騶虞	yu jie hu zou yu #博取
 彼茁者蓬
 壹發五豵
 
@@ -208,23 +208,23 @@ use_preset_vocabulary: true
 靜女
 靜女其姝
 俟我於城隅
-愛而不見	ai er bu xian#愛通薆，見同現
-愛而不見	ai er bu jian#博取
+愛而不見	ai er bu xian #愛通薆，見同現
+愛而不見	ai er bu jian #博取
 搔首踟躕
-靜女其孌	jing nv qi luan#陸
-靜女其孌	jing nv qi lvan#臺
+靜女其孌	jing nv qi luan #陸
+靜女其孌	jing nv qi lvan #臺
 貽我彤管
 彤管有煒
 說懌女美	yue yi ru mei
-說懌女美	yue yi nv mei#女/汝
-說懌女美	shuo yi nv mei#博取
-自牧歸荑	zi mu kui ti#歸同饋
-自牧歸荑	zi mu gui ti#博取
+說懌女美	yue yi nv mei #女/汝
+說懌女美	shuo yi nv mei #博取
+自牧歸荑	zi mu kui ti #歸同饋
+自牧歸荑	zi mu gui ti #博取
 洵美且異
-匪女之為美	fei ru zhi wei mei#女音汝，指荑
+匪女之為美	fei ru zhi wei mei #女音汝，指荑
 匪女之爲美	fei ru zhi wei mei
-匪女之為美	fei nv zhi wei mei#博取
-匪女之爲美	fei nv zhi wei mei#博取
+匪女之為美	fei nv zhi wei mei #博取
+匪女之爲美	fei nv zhi wei mei #博取
 美人之貽
 
 #新臺
@@ -233,8 +233,8 @@ use_preset_vocabulary: true
 河水瀰瀰
 燕婉之求
 蘧篨不鮮	qu chu bu xian
-新臺有洒	xin tai you cui#毛亨：洒，高峻也。
-新臺有洒	xin tai you sa#博取
+新臺有洒	xin tai you cui #毛亨：洒，高峻也。
+新臺有洒	xin tai you sa #博取
 河水浼浼	
 蘧篨不殄
 魚網之設
@@ -243,9 +243,9 @@ use_preset_vocabulary: true
 
 #二子乘舟
 二子乘舟
-汎汎其景	fan fan qi ying#古影
-汎汎其景	fan fan qi jing#博取
-汛汛其景	xun xun qi ying#有言汎乃汛之誤者
+汎汎其景	fan fan qi ying #古影
+汎汎其景	fan fan qi jing #博取
+汛汛其景	xun xun qi ying #有言汎乃汛之誤者
 汛汛其景	xun xun qi jing
 願言思子
 中心養養
@@ -272,8 +272,8 @@ use_preset_vocabulary: true
 不死何為
 不死何爲
 相鼠有齒
-人而無止	ren er wu zhi#一說容止
-人而無止	ren er wu chi#一說同恥
+人而無止	ren er wu zhi #一說容止
+人而無止	ren er wu chi #一說同恥
 不死何俟
 相鼠有體
 人而無禮
@@ -287,8 +287,8 @@ use_preset_vocabulary: true
 衛風
 
 #淇奧
-淇奧	qi ao#《重編》
-淇奧	qi yu#《古漢》，朱熹注音與郁同
+淇奧	qi ao #《重編》
+淇奧	qi yu #《古漢》，朱熹注音與郁同
 瞻彼淇奧	zhan bi qi ao
 瞻彼淇奧	zhan bi qi yu
 緑竹猗猗	lv zhu yi yi
@@ -297,28 +297,28 @@ use_preset_vocabulary: true
 如切如磋
 如琢如磨
 瑟兮僩兮
-赫兮咺兮#咺，《重編》上聲，《古漢》上聲又讀陰平，朱熹注況晩反
+赫兮咺兮 #咺，《重編》上聲，《古漢》上聲又讀陰平，朱熹注況晩反
 終不可諼兮	zhong bu ke xuan xi
-緑竹青青	lv zhu jing jing#同菁，《古漢》以爲舊讀。
+緑竹青青	lv zhu jing jing #同菁，《古漢》以爲舊讀。
 緑竹青青	lv zhu qing qing
-綠竹青青	lv zhu jing jing#緑/綠字形差異，下同
+綠竹青青	lv zhu jing jing #緑/綠字形差異，下同
 綠竹青青	lv zhu qing qing
 充耳琇瑩
-會弁如星	kuai bian ru xing#詩集傳：音怪，疑。
+會弁如星	kuai bian ru xing #詩集傳：音怪，疑。
 會弁如星	hui bian ru xing
-緑竹如簀	lv zhu ru ze#《古漢》「堆積」義列zé音下；《重編》僅有zé音。
-緑竹如簀	lv zhu ru ji#有言簀通積者
+緑竹如簀	lv zhu ru ze #《古漢》「堆積」義列zé音下；《重編》僅有zé音。
+緑竹如簀	lv zhu ru ji #有言簀通積者
 綠竹如簀	lv zhu ru ze
 綠竹如簀	lv zhu ru ji
-如金如錫	ru jin ru xi#陸陰平，臺陽平
+如金如錫	ru jin ru xi #陸陰平，臺陽平
 如圭如璧
 寬兮綽兮
-猗重較兮	yi chong jue xi#猗同倚音倚，依靠。《辭海》錄chónɡjué音。朱熹註重平聲，註較音角。
-倚重較兮	yi chong jue xi#段玉裁註倚作猗者誤
-猗重較兮	yi chong jiao xi#博取
-倚重較兮	yi chong jiao xi#博取
-猗重較兮	yi zhong jiao xi#博取
-倚重較兮	yi zhong jiao xi#博取
+猗重較兮	yi chong jue xi #猗同倚音倚，依靠。《辭海》錄chónɡjué音。朱熹註重平聲，註較音角。
+倚重較兮	yi chong jue xi #段玉裁註倚作猗者誤
+猗重較兮	yi chong jiao xi #博取
+倚重較兮	yi chong jiao xi #博取
+猗重較兮	yi zhong jiao xi #博取
+倚重較兮	yi zhong jiao xi #博取
 善戲謔兮
 不爲虐兮
 不為虐兮
