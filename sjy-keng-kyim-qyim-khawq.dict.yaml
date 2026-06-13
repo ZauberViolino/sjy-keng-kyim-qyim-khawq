@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: sjy-keng-kyim-qyim-khawq-terra
+name: sjy-keng-kyim-qyim-khawq
 version: "0.1.20241231"
 sort: by_weight
 use_preset_vocabulary: true
