@@ -9,6 +9,8 @@ Usage:
 The script removes digits 1-4 that immediately follow ASCII letter sequences
 used for pinyin (e.g., "jun1" -> "jun"). It preserves other digits (e.g. dates)
 because those digits are not attached to letters.
+
+For YAML dictionaries, it also updates the 'name:' field to remove '-terra' suffix.
 """
 from __future__ import annotations
 
@@ -24,9 +26,16 @@ def strip_tones(text: str) -> str:
     return re.sub(r'(?P<p>[A-Za-z]+)[1-4]\b', lambda m: m.group('p'), text)
 
 
+def remove_terra_from_name(text: str) -> str:
+    """Remove '-terra' from the 'name:' field in YAML header."""
+    # Match 'name: ...-terra' and replace with 'name: ...'
+    return re.sub(r'(^name:\s+.*?)-terra(\s*$)', r'\1\2', text, flags=re.MULTILINE)
+
+
 def process_file(src: Path, dst: Path, inplace: bool = False) -> Path:
     text = src.read_text(encoding='utf-8')
     new = strip_tones(text)
+    new = remove_terra_from_name(new)
     if inplace:
         bak = src.with_suffix(src.suffix + '.bak')
         src.replace(bak)
