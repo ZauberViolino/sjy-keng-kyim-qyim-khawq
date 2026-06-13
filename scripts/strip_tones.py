@@ -60,16 +60,17 @@ def main() -> None:
     if args.output:
         dst = Path(args.output)
     else:
-        # If the input filename contains '-terra' in its stem, remove that
-        # (user requested removing '-terra' and naming e.g. 'sjy-keng-kyim-qyim-khawq').
-        stem = src.stem
-        if stem.endswith('-terra'):
-            new_stem = stem[: -len('-terra')]
+        # If the input filename contains '-terra.dict' in its name, replace that with '.dict'
+        # (e.g., 'sjy-keng-kyim-qyim-khawq-terra.dict.yaml' -> 'sjy-keng-kyim-qyim-khawq.dict.yaml').
+        name = src.name
+        if '-terra.dict' in name:
+            new_name = name.replace('-terra.dict', '.dict')
         else:
             # Fallback: append '-notone' to avoid overwriting the source when
-            # there is no '-terra' segment.
-            new_stem = stem + '-notone'
-        dst = src.with_name(new_stem + src.suffix)
+            # there is no '-terra.dict' segment.
+            stem = src.stem
+            new_name = stem + '-notone' + src.suffix
+        dst = src.with_name(new_name)
 
     result = process_file(src, dst, inplace=False)
     print(f'Wrote tone-free copy: {result}')
