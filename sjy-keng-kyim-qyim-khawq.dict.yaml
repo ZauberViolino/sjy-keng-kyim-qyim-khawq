@@ -1,0 +1,664 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: sjy-keng-kyim-qyim-khawq-terra
+version: "0.1.20241231"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 國風
+國風
+
+
+# 周南###########################################################
+周南
+
+# 關雎
+關雎
+關關雎鳩
+在河之洲
+窈窕淑女
+君子好逑	jun zi hao qiu
+君子好逑	jun zi hao qiu
+參差荇菜	cen ci xing cai
+左右流之
+寤寐求之
+求之不得	qiu zhi bu de
+寤寐思服
+悠哉悠哉
+輾轉反側
+左右采之
+琴瑟友之
+左右芼之
+鐘鼓樂之	zhong gu yao zhi
+鐘鼓樂之	zhong gu yue zhi
+鐘鼓樂之	zhong gu le zhi
+鐘鼓樂之	zhong gu luo zhi
+
+#葛覃
+葛覃	ge tan
+葛覃	ge teng
+葛之覃兮	ge zhi tan xi
+葛之覃兮	ge zhi teng xi
+施于中谷	yi yu zhong gu
+施于中谷	shi yu zhong gu #博取
+維葉萋萋
+黃鳥于飛
+集于灌木
+其鳴喈喈
+維葉莫莫
+是刈是濩
+為絺為綌
+爲絺爲綌
+服之無斁	fu zhi wu yi
+言告師氏
+言告言歸
+薄汙我私	bo wu wo si
+薄汚我私	bo wu wo si
+薄污我私	bo wu wo si
+薄澣我衣	bo huan wo yi
+薄澣我衣	bo huan wo yi
+薄澣我衣	bo wan wo yi
+害澣害否	he huan he fou
+害澣害否	he huan he fou
+害澣害否	he wan he fou
+害澣害否	hai huan hai fou #博取
+害澣害否	hai huan hai fou #博取
+害澣害否	hai wan hai fou #博取
+歸寧父母
+
+#卷耳
+卷耳	juan er
+采采卷耳	cai cai juan er
+不盈頃筐	bu ying qing kuang
+嗟我懷人
+寘彼周行	zhi bi zhou hang
+陟彼崔嵬
+我馬虺隤
+我姑酌彼金罍
+維以不永懷
+陟彼高岡
+我馬玄黃
+我姑酌彼兕觥 
+維以不永傷
+陟彼砠矣
+我馬瘏矣
+我僕痡矣
+云何吁矣
+
+#樛木*
+#螽斯*
+
+#桃夭
+桃夭
+桃之夭夭
+灼灼其華	zhuo zhuo qi hua
+灼灼其華	zhuo zhuo qi hua #博取
+之子于歸
+宜其室家
+有蕡其實
+宜其家室
+其葉蓁蓁
+宜其家人
+
+#兔罝*
+
+#芣苢
+芣苢	fu yi
+芣苢	fou yi
+芣苡	fu yi
+芣苡	fou yi
+采采芣苢	cai cai fu yi
+采采芣苢	cai cai fou yi
+薄言采之	bo yan cai zhi
+薄言有之	bo yan you zhi
+薄言掇之	bo yan duo zhi
+薄言捋之	bo yan luo zhi
+薄言捋之	bo yan lv zhi
+薄言袺之	bo yan jie zhi
+薄言襭之	bo yan xie zhi
+
+
+#漢廣
+南有喬木
+不可休思
+不可休息
+漢有遊女
+不可求思
+漢之廣矣
+不可泳思
+江之永矣
+不可方思
+翹翹錯薪	qiao qiao cuo xin
+言刈其楚
+之子于歸
+言秣其馬
+言刈其蔞	yan yi qi lou
+言刈其蔞	yan yi qi lv
+言刈其蔞	yan yi qi lv
+言秣其駒
+
+#汝墳*
+#麟之趾*
+
+
+#召南###########################################################
+召南	shao nan
+
+#鵲巢
+維鵲有巢
+維鳩居之
+之子于歸
+百兩御之
+維鳩方之
+百兩將之	bai liang jiang zhi
+維鳩盈之
+百兩成之
+
+#采蘩*
+#草蟲*
+#采蘋*
+
+#甘棠
+甘棠
+蔽芾甘棠	bi fei gan tang
+勿翦勿伐
+召伯所茇	shao bo suo ba
+召伯所茇	zhao bo suo ba #博取
+召伯所茇	zhao bo suo ba #博取
+勿翦勿敗
+召伯所憩	shao bo suo qi
+召伯所憩	zhao bo suo qi #博取
+召伯所憩	zhao bo suo qi #博取
+勿翦勿拜
+召伯所說	shao bo suo shui
+召伯所說	zhao bo suo shuo #博取
+召伯所說	zhao bo suo shuo #博取
+
+#行露*
+#羔羊*
+#殷其靁*
+#摽有梅*
+#小星*
+#江有汜*
+#野有死麕*
+#何彼襛矣*
+
+#騶虞
+騶虞
+彼茁者葭
+壹發五豝
+于嗟乎騶虞	xu jie hu zou yu
+于嗟乎騶虞	xu jie hu zou ya
+于嗟乎騶虞	yu jie hu zou yu #博取
+彼茁者蓬
+壹發五豵
+
+
+# 邶風###########################################################
+邶風
+
+# 邶風·柏舟
+柏舟	bai zhou
+
+#綠衣*
+#燕燕*
+#日月*
+#終風*
+#擊鼓*
+#凱風*
+#雄雉*
+#匏有苦葉*
+#谷風*
+#式微*
+#旄丘*
+#簡兮*
+#泉水*
+#北門*
+#北風*
+
+#靜女
+靜女
+靜女其姝
+俟我於城隅
+愛而不見	ai er bu xian
+愛而不見	ai er bu jian #博取
+搔首踟躕
+靜女其孌	jing nv qi luan
+靜女其孌	jing nv qi lvan
+貽我彤管
+彤管有煒
+說懌女美	yue yi ru mei
+說懌女美	yue yi nv mei
+說懌女美	shuo yi nv mei #博取
+自牧歸荑	zi mu kui ti
+自牧歸荑	zi mu gui ti #博取
+洵美且異
+匪女之為美	fei ru zhi wei mei
+匪女之爲美	fei ru zhi wei mei
+匪女之為美	fei nv zhi wei mei
+匪女之爲美	fei nv zhi wei mei
+匪女之為美	fei nv zhi wei mei #博取
+匪女之爲美	fei nv zhi wei mei #博取
+匪女之為美	fei nv zhi wei mei #博取
+匪女之爲美	fei nv zhi wei mei #博取
+美人之貽
+
+#新臺
+新臺
+新臺有泚
+河水瀰瀰
+燕婉之求
+蘧篨不鮮	qu chu bu xian
+蘧篨不鮮	qu chu bu xian #博取
+新臺有洒	xin tai you cui
+新臺有洒	xin tai you sa #博取
+河水浼浼	
+蘧篨不殄
+魚網之設
+鴻則離之
+得此戚施
+##額外收錄詞語
+瀰瀰
+
+#二子乘舟
+二子乘舟
+汎汎其景	fan fan qi ying
+汎汎其景	fan fan qi jing #博取
+汛汛其景	xun xun qi ying
+汛汛其景	xun xun qi jing #博取
+願言思子
+中心養養
+汎汎其逝
+汛汛其逝
+願言思子
+不瑕有害
+
+
+# 鄘風###########################################################
+鄘風
+
+#鄘風·柏舟*
+#牆有茨*
+#君子偕老*
+#桑中*
+#鶉之奔奔*
+#定之方中*
+#蝃蝀*
+
+#相鼠
+相鼠	xiang shu
+相鼠有皮	xiang shu you pi
+人而無儀
+不死何為	bu si he wei
+不死何爲	bu si he wei
+相鼠有齒
+人而無止	ren er wu zhi
+人而無止	ren er wu chi
+不死何俟
+相鼠有體
+人而無禮
+胡不遄死
+
+#干旄*
+#載馳*
+
+
+#衛風###########################################################
+衛風
+衞風
+
+#淇奧
+淇奧	qi ao
+淇奧	qi yu
+瞻彼淇奧	zhan bi qi ao
+瞻彼淇奧	zhan bi qi yu
+緑竹猗猗	lv zhu yi yi
+綠竹猗猗	lv zhu yi yi
+有匪君子
+如切如磋
+如琢如磨
+瑟兮僩兮
+赫兮咺兮	he xi xuan xi
+赫兮咺兮	he xi xuan xi
+終不可諼兮	zhong bu ke xuan xi
+緑竹青青	lv zhu jing jing
+緑竹青青	lv zhu qing qing
+綠竹青青	lv zhu jing jing
+綠竹青青	lv zhu qing qing
+充耳琇瑩
+會弁如星	kuai bian ru xing
+會弁如星	hui bian ru xing #博取
+緑竹如簀	lv zhu ru ze
+緑竹如簀	lv zhu ru ji
+綠竹如簀	lv zhu ru ze
+綠竹如簀	lv zhu ru ji
+如金如錫	ru jin ru xi
+如金如錫	ru jin ru xi
+如圭如璧
+寬兮綽兮
+猗重較兮	yi chong jue xi
+倚重較兮	yi chong jue xi
+猗重較兮	yi chong jiao xi
+倚重較兮	yi chong jiao xi
+猗重較兮	yi zhong jiao xi #博取
+倚重較兮	yi zhong jiao xi #博取
+猗重較兮	yi chong jue xi #博取
+倚重較兮	yi chong jue xi #博取
+猗重較兮	yi chong jiao xi #博取
+倚重較兮	yi chong jiao xi #博取
+猗重較兮	yi zhong jiao xi #博取
+倚重較兮	yi zhong jiao xi #博取
+善戲謔兮
+不爲虐兮
+不為虐兮
+
+#考槃*
+
+#碩人
+
+碩人其頎
+衣錦褧衣	yi jin jiong yi
+衣錦褧衣	yi jin jiong yi
+齊侯之子
+衛侯之妻
+東宮之妹
+邢侯之姨
+譚公維私
+手如柔荑
+膚如凝脂
+領如蝤蠐
+齒如瓠犀
+螓首蛾眉
+巧笑倩兮
+美目盼兮
+碩人敖敖
+說于農郊	shui yu nong jiao
+##博取
+說于農郊
+四牡有驕
+朱幩鑣鑣
+翟茀以朝
+大夫夙退
+無使君勞
+河水洋洋
+北流活活	bei liu guo guo
+##博取
+北流活活
+施罛濊濊	shi gu huo huo
+鱣鮪發發	zhan wei bo bo
+##博取
+鱣鮪發發
+葭菼揭揭
+庶姜孽孽
+庶士有朅
+##逸詩
+素以爲絢兮
+素以為絢兮
+##額外收錄詞語
+活活	guo guo
+發發	bo bo
+
+#氓
+氓	meng
+氓	wei feng meng
+####單字詞。默認權重太低，可能需要提高權重
+氓之蚩蚩	meng zhi chi chi
+抱布貿絲
+匪來貿絲
+來即我謀
+送子涉淇
+至于頓丘
+匪我愆期
+子無良媒
+將子無怒	qiang zi wu nu
+##博取
+將子無怒
+秋以為期
+秋以爲期
+乘彼垝垣	cheng bi gui yuan #乘，登
+以望復關
+不見復關
+泣涕漣漣
+既見復關
+載笑載言	zai xiao zai yan
+爾卜爾筮	er bu er shi
+體無咎言
+以爾車來
+以我賄遷
+桑之未落
+其葉沃若
+于嗟鳩兮	xu jie jiu xi
+##博取
+于嗟鳩兮
+無食桑葚
+于嗟女兮	xu jie nv xi #此處應本字女，非汝
+##博取
+于嗟女兮
+無與士耽
+士之耽兮
+猶可說也	you ke tuo ye
+##博取
+猶可說也	you ke shuo ye
+女之耽兮
+不可說也	bu ke tuo ye
+##博取
+不可說也
+桑之落矣	sang zhi luo yi #落是多音字
+其黃而隕
+自我徂爾
+三歲食貧
+淇水湯湯	qi shui shang shang
+漸車帷裳	jian che wei chang #漸陰平，浸溼。裳，上曰衣，下曰裳，《古漢》僅有cháng音，《現漢》僅有cháng與輕聲·shang。
+##博取
+漸車帷裳
+女也不爽
+士貳其行	shi te qi xing
+士貳其行	shi er qi xing
+士貳其行	shi te qi hang
+士貳其行	shi er qi hang
+士也罔極
+二三其德
+三歲為婦
+三歲爲婦
+靡室勞矣
+夙興夜寐
+靡有朝矣	mi you zhao yi
+言既遂矣
+至于暴矣	zhi yu bao yi #暴好像是多音？
+兄弟不知
+咥其笑矣
+靜言思之
+躬自悼矣
+及爾偕老
+老使我怨
+淇則有岸
+隰則有泮
+總角之宴
+言笑晏晏
+信誓旦旦
+不思其反
+反是不思
+亦已焉哉
+
+#伯兮
+伯兮	bo xi
+伯兮朅兮	bo xi qie xi
+邦之桀兮
+伯也執殳	bo ye zhi shu
+爲王前驅
+為王前驅
+自伯之東	zi bo zhi dong
+首如飛蓬
+豈無膏沐
+誰適爲容	shui di wei rong
+誰適爲容	shei di wei rong
+誰適爲容	shui shi wei rong #博取
+誰適爲容	shei shi wei rong #博取
+誰適為容	shui di wei rong
+誰適為容	shei di wei rong
+誰適為容	shui shi wei rong #博取
+誰適為容	shei shi wei rong #博取
+誰適爲容	shui di wei rong #博取
+誰適爲容	shei di wei rong #博取
+誰適爲容	shui shi wei rong #博取
+誰適爲容	shei shi wei rong #博取
+誰適為容	shui di wei rong #博取
+誰適為容	shei di wei rong #博取
+誰適為容	shui shi wei rong #博取
+誰適為容	shei shi wei rong #博取
+其雨其雨
+杲杲出日
+願言思伯	yuan yan si bo
+甘心首疾
+焉得諼草	yan de xuan cao
+言樹之背	yan shu zhi bei
+言樹之背	yan shu zhi bei
+使我心痗
+
+#有狐*
+
+#木瓜
+投我以木瓜
+報之以瓊琚
+匪報也	fei bao ye
+##博取
+匪報也
+永以為好也
+永以爲好也
+投我以木桃
+報之以瓊瑤
+投我以木李
+報之以瓊玖
+
+#王風###########################################################
+王風
+
+#黍離
+黍離
+彼黍離離
+彼稷之苗
+行邁靡靡	xing mai mi mi
+中心搖搖
+知我者
+謂我心憂
+知我者謂我心憂
+不知我者
+謂我何求
+不知我者謂我何求
+悠悠蒼天
+此何人哉
+彼稷之穗
+中心如醉
+彼稷之實
+中心如噎
+
+#君子于役
+
+君子于役
+不知其期
+曷至哉
+雞棲于塒
+日之夕矣
+羊牛下來
+如之何勿思
+不日不月
+曷其有佸
+雞棲于桀
+日之夕矣
+羊牛下括	yang niu xia kuo
+羊牛下括	yang niu xia huo
+苟無飢渴
+
+#君子陽陽*
+#國風·揚之水*
+#中谷有蓷*
+#兔爰*
+
+#葛藟
+葛藟
+緜緜葛藟
+在河之滸
+終遠兄弟
+謂他人父
+亦莫我顧
+在河之涘
+謂他人母
+亦莫我有
+在河之漘
+謂他人昆
+亦莫我聞
+
+#采葛
+采葛
+彼采葛兮
+一日不見
+如三月兮
+彼采蕭兮
+如三秋兮
+彼采艾兮
+如三歲兮
+
+#大車*
+#丘中有麻*
+
+#鄭風###########################################################
+鄭風
+
+#緇衣*
+
+#將仲子
+將仲子	qiang zhong zi
+#博取
+將仲子
+將仲子兮	qiang zhong zi xi
+#博取
+將仲子兮
+無踰我里
+無折我樹杞
+豈敢愛之
+畏我父母
+仲可懷也
+父母之言
+亦可畏也	
+無踰我牆
+無折我樹桑
+畏我諸兄
+諸兄之言
+無踰我園
+無折我樹檀
+畏人之多言
+人之多言
+
+#叔于田*
+#大叔于田*
+#清人*
+#羔裘*
+#遵大路*
+#女曰鷄鳴*
+#有女同車*
+#山有扶蘇*
+#蘀兮*
+#狡童*
+
+#褰裳
+褰裳	qian chang
+##博取，常見誤讀
+褰裳
+子惠思我
+褰裳涉溱	qian chang she zhen
+##博取，常見誤讀
+褰裳涉溱
+子不我思
+豈無他人
+狂童之狂也且	kuang tong zhi kuang ye ju
+##博取
+狂童之狂也且
+褰裳涉洧	qian chang she wei
+##博取，常見誤讀
+褰裳涉洧
+豈無他士
+
+
