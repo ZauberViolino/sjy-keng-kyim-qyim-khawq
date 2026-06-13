@@ -1,0 +1,664 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: sjy-keng-kyim-qyim-khawq-terra
+version: "0.1.20241231"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+# 國風
+國風
+
+
+# 周南###########################################################
+周南
+
+# 關雎
+關雎
+關關雎鳩
+在河之洲
+窈窕淑女
+君子好逑	jun1 zi3 hao3 qiu2
+君子好逑	jun1 zi3 hao4 qiu2
+參差荇菜	cen1 ci1 xing4 cai4
+左右流之
+寤寐求之
+求之不得	qiu2 zhi1 bu4 de2
+寤寐思服
+悠哉悠哉
+輾轉反側
+左右采之
+琴瑟友之
+左右芼之
+鐘鼓樂之	zhong1 gu3 yao4 zhi1
+鐘鼓樂之	zhong1 gu3 yue4 zhi1
+鐘鼓樂之	zhong1 gu3 le4 zhi1
+鐘鼓樂之	zhong1 gu3 luo4 zhi1
+
+#葛覃
+葛覃	ge3 tan2
+葛覃	ge3 teng2
+葛之覃兮	ge3 zhi1 tan2 xi1
+葛之覃兮	ge3 zhi1 teng2 xi1
+施于中谷	yi4 yu2 zhong1 gu3
+施于中谷	shi1 yu2 zhong1 gu3 #博取
+維葉萋萋
+黃鳥于飛
+集于灌木
+其鳴喈喈
+維葉莫莫
+是刈是濩
+為絺為綌
+爲絺爲綌
+服之無斁	fu2 zhi1 wu2 yi4
+言告師氏
+言告言歸
+薄汙我私	bo2 wu1 wo3 si1
+薄汚我私	bo2 wu2 wo3 si1
+薄污我私	bo2 wu3 wo3 si1
+薄澣我衣	bo2 huan4 wo3 yi1
+薄澣我衣	bo2 huan3 wo3 yi1
+薄澣我衣	bo2 wan4 wo3 yi1
+害澣害否	he2 huan4 he2 fou3
+害澣害否	he2 huan3 he2 fou3
+害澣害否	he2 wan4 he2 fou3
+害澣害否	hai4 huan4 hai4 fou3 #博取
+害澣害否	hai4 huan3 hai4 fou3 #博取
+害澣害否	hai4 wan4 hai4 fou3 #博取
+歸寧父母
+
+#卷耳
+卷耳	juan3 er3
+采采卷耳	cai3 cai3 juan3 er3
+不盈頃筐	bu4 ying2 qing1 kuang1
+嗟我懷人
+寘彼周行	zhi4 bi3 zhou1 hang2
+陟彼崔嵬
+我馬虺隤
+我姑酌彼金罍
+維以不永懷
+陟彼高岡
+我馬玄黃
+我姑酌彼兕觥 
+維以不永傷
+陟彼砠矣
+我馬瘏矣
+我僕痡矣
+云何吁矣
+
+#樛木*
+#螽斯*
+
+#桃夭
+桃夭
+桃之夭夭
+灼灼其華	zhuo2 zhuo2 qi2 hua1
+灼灼其華	zhuo2 zhuo2 qi2 hua2 #博取
+之子于歸
+宜其室家
+有蕡其實
+宜其家室
+其葉蓁蓁
+宜其家人
+
+#兔罝*
+
+#芣苢
+芣苢	fu2 yi3
+芣苢	fou2 yi3
+芣苡	fu2 yi3
+芣苡	fou2 yi3
+采采芣苢	cai3 cai3 fu2 yi3
+采采芣苢	cai3 cai3 fou2 yi3
+薄言采之	bo2 yan2 cai3 zhi1
+薄言有之	bo2 yan2 you3 zhi1
+薄言掇之	bo2 yan2 duo1 zhi1
+薄言捋之	bo2 yan2 luo1 zhi1
+薄言捋之	bo2 yan2 lv3 zhi1
+薄言袺之	bo2 yan2 jie2 zhi1
+薄言襭之	bo2 yan2 xie2 zhi1
+
+
+#漢廣
+南有喬木
+不可休思
+不可休息
+漢有遊女
+不可求思
+漢之廣矣
+不可泳思
+江之永矣
+不可方思
+翹翹錯薪	qiao2 qiao2 cuo4 xin1
+言刈其楚
+之子于歸
+言秣其馬
+言刈其蔞	yan2 yi4 qi2 lou2
+言刈其蔞	yan2 yi4 qi2 lv2
+言刈其蔞	yan2 yi4 qi2 lv3
+言秣其駒
+
+#汝墳*
+#麟之趾*
+
+
+#召南###########################################################
+召南	shao4 nan2
+
+#鵲巢
+維鵲有巢
+維鳩居之
+之子于歸
+百兩御之
+維鳩方之
+百兩將之	bai3 liang3 jiang1 zhi1
+維鳩盈之
+百兩成之
+
+#采蘩*
+#草蟲*
+#采蘋*
+
+#甘棠
+甘棠
+蔽芾甘棠	bi4 fei4 gan1 tang2
+勿翦勿伐
+召伯所茇	shao4 bo2 suo3 ba2
+召伯所茇	zhao1 bo2 suo3 ba2 #博取
+召伯所茇	zhao4 bo2 suo3 ba2 #博取
+勿翦勿敗
+召伯所憩	shao4 bo2 suo3 qi4
+召伯所憩	zhao1 bo2 suo3 qi4 #博取
+召伯所憩	zhao4 bo2 suo3 qi4 #博取
+勿翦勿拜
+召伯所說	shao4 bo2 suo3 shui4
+召伯所說	zhao1 bo2 suo3 shuo1 #博取
+召伯所說	zhao4 bo2 suo3 shuo1 #博取
+
+#行露*
+#羔羊*
+#殷其靁*
+#摽有梅*
+#小星*
+#江有汜*
+#野有死麕*
+#何彼襛矣*
+
+#騶虞
+騶虞
+彼茁者葭
+壹發五豝
+于嗟乎騶虞	xu1 jie1 hu1 zou1 yu2
+于嗟乎騶虞	xu1 jie1 hu1 zou1 ya2
+于嗟乎騶虞	yu2 jie1 hu1 zou1 yu2 #博取
+彼茁者蓬
+壹發五豵
+
+
+# 邶風###########################################################
+邶風
+
+# 邶風·柏舟
+柏舟	bai3 zhou1
+
+#綠衣*
+#燕燕*
+#日月*
+#終風*
+#擊鼓*
+#凱風*
+#雄雉*
+#匏有苦葉*
+#谷風*
+#式微*
+#旄丘*
+#簡兮*
+#泉水*
+#北門*
+#北風*
+
+#靜女
+靜女
+靜女其姝
+俟我於城隅
+愛而不見	ai4 er2 bu4 xian4
+愛而不見	ai4 er2 bu4 jian4 #博取
+搔首踟躕
+靜女其孌	jing4 nv3 qi1 luan2
+靜女其孌	jing4 nv3 qi1 lvan3
+貽我彤管
+彤管有煒
+說懌女美	yue4 yi4 ru3 mei3
+說懌女美	yue4 yi4 nv3 mei3
+說懌女美	shuo1 yi4 nv3 mei3 #博取
+自牧歸荑	zi4 mu4 kui4 ti2
+自牧歸荑	zi4 mu4 gui1 ti2 #博取
+洵美且異
+匪女之為美	fei1 ru3 zhi1 wei2 mei3
+匪女之爲美	fei1 ru3 zhi1 wei2 mei3
+匪女之為美	fei1 nv3 zhi1 wei2 mei3
+匪女之爲美	fei1 nv3 zhi1 wei2 mei3
+匪女之為美	fei3 nv3 zhi1 wei2 mei3 #博取
+匪女之爲美	fei3 nv3 zhi1 wei2 mei3 #博取
+匪女之為美	fei3 nv3 zhi1 wei4 mei3 #博取
+匪女之爲美	fei3 nv3 zhi1 wei4 mei3 #博取
+美人之貽
+
+#新臺
+新臺
+新臺有泚
+河水瀰瀰
+燕婉之求
+蘧篨不鮮	qu2 chu2 bu4 xian3
+蘧篨不鮮	qu2 chu2 bu4 xian1 #博取
+新臺有洒	xin1 tai2 you3 cui3
+新臺有洒	xin1 tai2 you3 sa3 #博取
+河水浼浼	
+蘧篨不殄
+魚網之設
+鴻則離之
+得此戚施
+##額外收錄詞語
+瀰瀰
+
+#二子乘舟
+二子乘舟
+汎汎其景	fan4 fan4 qi2 ying3
+汎汎其景	fan4 fan4 qi2 jing3 #博取
+汛汛其景	xun4 xun4 qi2 ying3
+汛汛其景	xun4 xun4 qi2 jing3 #博取
+願言思子
+中心養養
+汎汎其逝
+汛汛其逝
+願言思子
+不瑕有害
+
+
+# 鄘風###########################################################
+鄘風
+
+#鄘風·柏舟*
+#牆有茨*
+#君子偕老*
+#桑中*
+#鶉之奔奔*
+#定之方中*
+#蝃蝀*
+
+#相鼠
+相鼠	xiang4 shu3
+相鼠有皮	xiang4 shu3 you3 pi2
+人而無儀
+不死何為	bu4 si3 he2 wei2
+不死何爲	bu4 si3 he2 wei2
+相鼠有齒
+人而無止	ren er wu zhi
+人而無止	ren er wu chi
+不死何俟
+相鼠有體
+人而無禮
+胡不遄死
+
+#干旄*
+#載馳*
+
+
+#衛風###########################################################
+衛風
+衞風
+
+#淇奧
+淇奧	qi1 ao4
+淇奧	qi1 yu4
+瞻彼淇奧	zhan1 bi3 qi2 ao4
+瞻彼淇奧	zhan1 bi3 qi2 yu4
+緑竹猗猗	lv4 zhu2 yi1 yi1
+綠竹猗猗	lv4 zhu2 yi1 yi1
+有匪君子
+如切如磋
+如琢如磨
+瑟兮僩兮
+赫兮咺兮	he4 xi1 xuan1 xi1
+赫兮咺兮	he4 xi1 xuan3 xi1
+終不可諼兮	zhong1 bu4 ke3 xuan1 xi1
+緑竹青青	lv4 zhu2 jing1 jing1
+緑竹青青	lv4 zhu2 qing1 qing1
+綠竹青青	lv4 zhu2 jing1 jing1
+綠竹青青	lv4 zhu2 qing1 qing1
+充耳琇瑩
+會弁如星	kuai4 bian4 ru2 xing1
+會弁如星	hui4 bian4 ru2 xing1 #博取
+緑竹如簀	lv4 zhu2 ru2 ze2
+緑竹如簀	lv4 zhu2 ru2 ji1
+綠竹如簀	lv4 zhu2 ru2 ze2
+綠竹如簀	lv4 zhu2 ru2 ji1
+如金如錫	ru2 jin1 ru2 xi1
+如金如錫	ru2 jin1 ru2 xi2
+如圭如璧
+寬兮綽兮
+猗重較兮	yi3 chong2 jue2 xi1
+倚重較兮	yi3 chong2 jue2 xi1
+猗重較兮	yi3 chong2 jiao4 xi1
+倚重較兮	yi3 chong2 jiao4 xi1
+猗重較兮	yi3 zhong4 jiao4 xi1 #博取
+倚重較兮	yi3 zhong4 jiao4 xi1 #博取
+猗重較兮	yi1 chong2 jue2 xi1 #博取
+倚重較兮	yi1 chong2 jue2 xi1 #博取
+猗重較兮	yi1 chong2 jiao4 xi1 #博取
+倚重較兮	yi1 chong2 jiao4 xi1 #博取
+猗重較兮	yi1 zhong4 jiao4 xi1 #博取
+倚重較兮	yi1 zhong4 jiao4 xi1 #博取
+善戲謔兮
+不爲虐兮
+不為虐兮
+
+#考槃*
+
+#碩人
+
+碩人其頎
+衣錦褧衣	yi4 jin3 jiong3 yi1
+衣錦褧衣	yi1 jin3 jiong3 yi1
+齊侯之子
+衛侯之妻
+東宮之妹
+邢侯之姨
+譚公維私
+手如柔荑
+膚如凝脂
+領如蝤蠐
+齒如瓠犀
+螓首蛾眉
+巧笑倩兮
+美目盼兮
+碩人敖敖
+說于農郊	shui4 yu2 nong2 jiao1
+##博取
+說于農郊
+四牡有驕
+朱幩鑣鑣
+翟茀以朝
+大夫夙退
+無使君勞
+河水洋洋
+北流活活	bei4 liu2 guo1 guo1
+##博取
+北流活活
+施罛濊濊	shi1 gu1 huo4 huo4
+鱣鮪發發	zhan1 wei4 bo1 bo1
+##博取
+鱣鮪發發
+葭菼揭揭
+庶姜孽孽
+庶士有朅
+##逸詩
+素以爲絢兮
+素以為絢兮
+##額外收錄詞語
+活活	guo1 guo1
+發發	bo1 bo1
+
+#氓
+氓	meng2
+氓	wei4 feng1 meng2
+####單字詞。默認權重太低，可能需要提高權重
+氓之蚩蚩	meng2 zhi1 chi1 chi1
+抱布貿絲
+匪來貿絲
+來即我謀
+送子涉淇
+至于頓丘
+匪我愆期
+子無良媒
+將子無怒	qiang1 zi3 wu2 nu4
+##博取
+將子無怒
+秋以為期
+秋以爲期
+乘彼垝垣	cheng bi gui yuan #乘，登
+以望復關
+不見復關
+泣涕漣漣
+既見復關
+載笑載言	zai4 xiao4 zai4 yan2
+爾卜爾筮	er3 bu3 er3 shi4
+體無咎言
+以爾車來
+以我賄遷
+桑之未落
+其葉沃若
+于嗟鳩兮	xu1 jie1 jiu1 xi1
+##博取
+于嗟鳩兮
+無食桑葚
+于嗟女兮	xu1 jie1 nv3 xi1 #此處應本字女，非汝
+##博取
+于嗟女兮
+無與士耽
+士之耽兮
+猶可說也	you2 ke3 tuo1 ye3
+##博取
+猶可說也	you2 ke3 shuo1 ye3
+女之耽兮
+不可說也	bu4 ke3 tuo1 ye3
+##博取
+不可說也
+桑之落矣	sang1 zhi1 luo4 yi3 #落是多音字
+其黃而隕
+自我徂爾
+三歲食貧
+淇水湯湯	qi2 shui3 shang1 shang1
+漸車帷裳	jian1 che1 wei2 chang2 #漸陰平，浸溼。裳，上曰衣，下曰裳，《古漢》僅有cháng音，《現漢》僅有cháng與輕聲·shang。
+##博取
+漸車帷裳
+女也不爽
+士貳其行	shi4 te4 qi2 xing2
+士貳其行	shi4 er4 qi2 xing2
+士貳其行	shi4 te4 qi2 hang2
+士貳其行	shi4 er4 qi2 hang2
+士也罔極
+二三其德
+三歲為婦
+三歲爲婦
+靡室勞矣
+夙興夜寐
+靡有朝矣	mi3 you3 zhao1 yi3
+言既遂矣
+至于暴矣	zhi4 yu2 bao4 yi3 #暴好像是多音？
+兄弟不知
+咥其笑矣
+靜言思之
+躬自悼矣
+及爾偕老
+老使我怨
+淇則有岸
+隰則有泮
+總角之宴
+言笑晏晏
+信誓旦旦
+不思其反
+反是不思
+亦已焉哉
+
+#伯兮
+伯兮	bo2 xi1
+伯兮朅兮	bo2 xi1 qie4 xi1
+邦之桀兮
+伯也執殳	bo2 ye3 zhi2 shu1
+爲王前驅
+為王前驅
+自伯之東	zi4 bo2 zhi1 dong1
+首如飛蓬
+豈無膏沐
+誰適爲容	shui2 di2 wei2 rong2
+誰適爲容	shei2 di2 wei2 rong2
+誰適爲容	shui2 shi4 wei2 rong2 #博取
+誰適爲容	shei2 shi4 wei2 rong2 #博取
+誰適為容	shui2 di2 wei2 rong2
+誰適為容	shei2 di2 wei2 rong2
+誰適為容	shui2 shi4 wei2 rong2 #博取
+誰適為容	shei2 shi4 wei2 rong2 #博取
+誰適爲容	shui2 di2 wei4 rong2 #博取
+誰適爲容	shei2 di2 wei4 rong2 #博取
+誰適爲容	shui2 shi4 wei4 rong2 #博取
+誰適爲容	shei2 shi4 wei4 rong2 #博取
+誰適為容	shui2 di2 wei4 rong2 #博取
+誰適為容	shei2 di2 wei4 rong2 #博取
+誰適為容	shui2 shi4 wei4 rong2 #博取
+誰適為容	shei2 shi4 wei4 rong2 #博取
+其雨其雨
+杲杲出日
+願言思伯	yuan4 yan2 si1 bo2
+甘心首疾
+焉得諼草	yan1 de2 xuan1 cao3
+言樹之背	yan2 shu3 zhi1 bei4
+言樹之背	yan2 shu3 zhi1 bei3
+使我心痗
+
+#有狐*
+
+#木瓜
+投我以木瓜
+報之以瓊琚
+匪報也	fei1 bao4 ye3
+##博取
+匪報也
+永以為好也
+永以爲好也
+投我以木桃
+報之以瓊瑤
+投我以木李
+報之以瓊玖
+
+#王風###########################################################
+王風
+
+#黍離
+黍離
+彼黍離離
+彼稷之苗
+行邁靡靡	xing2 mai4 mi3 mi3
+中心搖搖
+知我者
+謂我心憂
+知我者謂我心憂
+不知我者
+謂我何求
+不知我者謂我何求
+悠悠蒼天
+此何人哉
+彼稷之穗
+中心如醉
+彼稷之實
+中心如噎
+
+#君子于役
+
+君子于役
+不知其期
+曷至哉
+雞棲于塒
+日之夕矣
+羊牛下來
+如之何勿思
+不日不月
+曷其有佸
+雞棲于桀
+日之夕矣
+羊牛下括	yang2 niu2 xia4 kuo4
+羊牛下括	yang2 niu2 xia4 huo2
+苟無飢渴
+
+#君子陽陽*
+#國風·揚之水*
+#中谷有蓷*
+#兔爰*
+
+#葛藟
+葛藟
+緜緜葛藟
+在河之滸
+終遠兄弟
+謂他人父
+亦莫我顧
+在河之涘
+謂他人母
+亦莫我有
+在河之漘
+謂他人昆
+亦莫我聞
+
+#采葛
+采葛
+彼采葛兮
+一日不見
+如三月兮
+彼采蕭兮
+如三秋兮
+彼采艾兮
+如三歲兮
+
+#大車*
+#丘中有麻*
+
+#鄭風###########################################################
+鄭風
+
+#緇衣*
+
+#將仲子
+將仲子	qiang1 zhong4 zi3
+#博取
+將仲子
+將仲子兮	qiang1 zhong4 zi3 xi1
+#博取
+將仲子兮
+無踰我里
+無折我樹杞
+豈敢愛之
+畏我父母
+仲可懷也
+父母之言
+亦可畏也	
+無踰我牆
+無折我樹桑
+畏我諸兄
+諸兄之言
+無踰我園
+無折我樹檀
+畏人之多言
+人之多言
+
+#叔于田*
+#大叔于田*
+#清人*
+#羔裘*
+#遵大路*
+#女曰鷄鳴*
+#有女同車*
+#山有扶蘇*
+#蘀兮*
+#狡童*
+
+#褰裳
+褰裳	qian1 chang2
+##博取，常見誤讀
+褰裳
+子惠思我
+褰裳涉溱	qian1 chang2 she4 zhen1
+##博取，常見誤讀
+褰裳涉溱
+子不我思
+豈無他人
+狂童之狂也且	kuang2 tong2 zhi1 kuang2 ye3 ju1
+##博取
+狂童之狂也且
+褰裳涉洧	qian1 chang2 she4 wei3
+##博取，常見誤讀
+褰裳涉洧
+豈無他士
+
+
