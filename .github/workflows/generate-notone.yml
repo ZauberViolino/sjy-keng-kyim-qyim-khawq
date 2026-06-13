@@ -5,9 +5,9 @@ on:
     - cron: '0 0 * * *' # daily at 00:00 UTC
   workflow_dispatch: {}
 
-# Allow workflow to write to repository so git push can succeed with GITHUB_TOKEN
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   generate:
@@ -43,11 +43,8 @@ jobs:
           labels: automated
 
       - name: Merge the created Pull Request
-        uses: peter-evans/merge-pull-request@v2
         if: steps.create_pr.outputs.pull-request-number != ''
-        with:
-          token: ${{ github.token }}
-          pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
-          merge-method: merge
-          commit-title: "Merge auto-generated tone-free dictionaries"
-          merge-branch: auto/generate-notone
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr merge ${{ steps.create_pr.outputs.pull-request-number }} --merge --auto
