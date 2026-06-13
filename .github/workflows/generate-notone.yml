@@ -5,6 +5,10 @@ on:
     - cron: '0 0 * * *' # daily at 00:00 UTC
   workflow_dispatch: {}
 
+# Allow workflow to write to repository so git push can succeed with GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,14 +27,18 @@ jobs:
         run: |
           python scripts/strip_tones.py sjy-keng-kyim-qyim-khawq-terra.dict.yaml
 
-      - name: Commit generated files
+      - name: Commit generated files (if any)
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
+          # show status for debugging
+          git status --porcelain
           if ! git diff --staged --quiet; then
             git commit -m "Auto-generate tone-free dictionaries"
             git push
           else
             echo "No changes to commit"
           fi
+        shell: bash
