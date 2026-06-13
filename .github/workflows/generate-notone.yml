@@ -46,7 +46,7 @@ jobs:
         uses: peter-evans/merge-pull-request@v2
         if: steps.create_pr.outputs.pull-request-number != ''
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ github.token }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
           merge-method: merge
           commit-title: "Merge auto-generated tone-free dictionaries"
